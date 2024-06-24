@@ -2,7 +2,7 @@
 
 ### 🌟 Hakkımda
 
-Ben bir **Veri Analisti**'yim. SQL ve Python konularında deneyimliyim ve veri analizi konusunda eğitim aldım. Veriden anlamlı bilgiler elde etmeyi ve bu bilgileri kullanarak değer yaratmayı seviyorum.
+ SQL ve Python konularında çalışmalar yapıyorum, veri analizi konusunda eğitim aldım. Veriden anlamlı bilgiler elde etmeyi ve bu bilgileri kullanarak görselleştirme yapabiliyorum.
 
 ### 💼 Yetkinliklerim
 
